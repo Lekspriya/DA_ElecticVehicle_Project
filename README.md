@@ -22,8 +22,12 @@ Six important measures were created to analyze the data:
 These measures were used to create **KPI cards, charts, and interactive reports.**
 An additional calculated column called **Price Band** was created to categorize vehicles into different price segments (Budget, Mid, Premium) for better analysis.
 The dashboard was designed with different analytical views:
+
 **Marketing-based analysis –** sales performance, market share, and country-wise distribution
+
 **Technical-based analysis**– battery capacity, range, charging type, and safety insights
+
 **Price-based analysis**– revenue contribution and pricing strategy
+
 **Warranty-based analysis** – warranty comparison across manufacturers and years
 The final result is an interactive dashboard that provides clear insights into EV sales, performance, and market trends.
