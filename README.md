@@ -30,4 +30,5 @@ The dashboard was designed with different analytical views:
 **Price-based analysis**– revenue contribution and pricing strategy
 
 **Warranty-based analysis** – warranty comparison across manufacturers and years
+
 The final result is an interactive dashboard that provides clear insights into EV sales, performance, and market trends.
