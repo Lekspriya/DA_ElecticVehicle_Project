@@ -18,6 +18,7 @@ Six important measures were created to analyze the data:
 * Average Range
 * Target Units
 * Revenue Total
+  
 These measures were used to create **KPI cards, charts, and interactive reports.**
 An additional calculated column called **Price Band** was created to categorize vehicles into different price segments (Budget, Mid, Premium) for better analysis.
 The dashboard was designed with different analytical views:
